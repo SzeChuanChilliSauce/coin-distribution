@@ -1,1 +1,2 @@
-# Coin-distribution
+# Coin Distribution - automatic distribute FIL
+
